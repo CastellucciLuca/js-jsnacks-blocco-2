@@ -6,7 +6,7 @@ const numbers = [];
 let userNumbers;
 
 for (let i = 0 ; i < 6 ; i++){
-    userNumbers = parseInt(prompt("Insert Number"));
+    userNumbers = parseInt(prompt("Insert Numbers"));
     if (userNumbers % 2 == 1){
         numbers.push(userNumbers);
     }
