@@ -4,5 +4,5 @@ const userNumber = parseInt(prompt("Insert Number"));
 if (userNumber % 2 == 0){
     console.log (userNumber);
 } else {
-    console.log (userNumber + 1)
+    console.log (userNumber + 1);
 }
