@@ -11,3 +11,4 @@ for (let i = 0 ; i < 6 ; i++){
         number.push(userNumber);
     }
 }
+console.log(number);
