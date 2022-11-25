@@ -7,10 +7,10 @@ let maxNumber = 0;
 
 for (let index = 0; index < 10; index++) {
     sum += numbers[index];   
-} if (maxNumber = numbers) {
+ if (maxNumber = numbers) {
     maxNumber = numbers;
+    }
 }
-
 console.log(sum);
 average = sum / 10;
 console.log(average);
