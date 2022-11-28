@@ -12,4 +12,4 @@
 for ( let i = 0; i < names.length; i++) {
         nameList.push((names[Math.floor(Math.random() * 7)]) + " " + (lastnames[Math.floor(Math.random() * 7)]))
     }
-console.log(fakeList);
+console.log(nameList);
